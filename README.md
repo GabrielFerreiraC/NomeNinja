@@ -1,2 +1,2 @@
-# NomeNinja-
+# NomeNinja
 Resolução do exercício NomeNinja
